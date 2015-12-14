@@ -1,7 +1,6 @@
 package com.example
 
 import akka.actor.{ActorLogging, Actor}
-import com.example.WordCountingActor.WordsMsg
 import com.example.FileReaderActor.{FileContentAsString, ReadFileAsString}
 
 import scala.io.BufferedSource
