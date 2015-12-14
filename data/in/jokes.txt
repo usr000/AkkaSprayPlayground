@@ -1,0 +1,56 @@
+Computer Limericks
+
+The BBC recently ran a computer limerick competition, through
+"The Listener".  I've just received the issue with the winners.
+The competition was to write a limerick starting
+"A programming genius called ..."
+
+The winner--
+
+A programming genius called Hank
+Wrote a system to 'access' his 'bank'
+When his memory failed him
+They nailed him then jailed him
+Now his 'storage' is 'basic' and dank.
+		W E Sword, Barningham Suffolk
+
+Runners up--
+
+A programming genius called Gertie
+Had a penchant for graphics so dirty
+No computer she knew
+Would accept what she drew
+Until she had tickled its QWERTY.
+		C G Robbins, St Albans
+
+A programming genius called HEAP
+Had trouble in getting to sleep
+So he made his lambs troup
+through a huge FOR-NEXT loop
+FOR 1 TO 10000: NEXT sheep.
+		John Miles, Ely
+
+A programming genius called Smiler
+Thought he'd made up a simpler compiler
+But through trouble with loops
+Was constrained to cry 'Whoops,
+This gets viler, gets viler, gets viler, ...
+		J A Cade, Streatley
+
+A programming genius called Sewter
+Built a limerick-writing computer.
+The metre was fine
+and the rhymes quite divine
+But for some reason the damn thing always
+got the last line wrong.
+		D Gutteridge, Chesterfield
+
+A programming genius called Hugh
+Said 'I really must see if it's true.'
+So he wrote a routine
+To ask 'What's it all mean?'
+But the answer was still '42'.
+		R Humphries, Sutton Coldfield
+
+
+--Julian
